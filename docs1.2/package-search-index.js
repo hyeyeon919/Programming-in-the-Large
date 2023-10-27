@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"srg.cli.given"},{"l":"srg.exceptions"},{"l":"srg.game"},{"l":"srg.ports"},{"l":"srg.resources"},{"l":"srg.ship"}];updateSearchResults();
